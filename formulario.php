@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="estilo.css">
     <title>Document</title>
 </head>
-
-<body>
+ 
+<body> 
     <div class="container">
         <form action="resultado.php" method ="POST">
             <h5>Formulario</h5>
@@ -17,7 +17,6 @@
                 <label for="">Id</label>
                 <input type="text" name="ID" class="form-control" size="40" placeholder="Ingrese ID">
             </div>
-
             <div class="form-group">
                 <label for="">Descripcion</label>
                 <input type="text" name="Descripcion" class="form-control" size="40" placeholder="Ingrese Descripcion">
